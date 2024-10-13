@@ -1,3 +1,4 @@
 # user_profile_fraimwork
 
-create user system for a web site, create db for members
+1. create user system for a website
+2. create sql database for members
